@@ -5,9 +5,9 @@
 ---
 
 ### ⚙️ Tech Stack  
-- **Languages:** Python, SQL  
-- **Frameworks:** FastAPI, Streamlit  
-- **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn  
+- **Languages:** Python, SQL, C, HTML
+- **Frameworks:** FastAPI, Streamlit, Flask
+- **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn, BeautifulSoup4
 - **Focus Areas:** Data Engineering · Model Deployment · MLOps  
 
 ---
