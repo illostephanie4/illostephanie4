@@ -1,14 +1,14 @@
 ## Stephanie
 
-**Data Scientist · Machine Learning Engineer · Python Developer**  
+**Data Scientist · Machine Learning Engineer · Python Developer . AI Developer**  
 
 ---
 
 ### ⚙️ Tech Stack  
-- **Languages:** Python, SQL, C, HTML
+- **Languages:** Python, SQL, C, HTML, R
 - **Frameworks:** FastAPI, Streamlit, Flask
-- **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn, BeautifulSoup4
-- **Focus Areas:** Data Engineering · Model Deployment · MLOps  
+- **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn, BeautifulSoup4, PyTorch
+- **Focus Areas:** Backend Development, ML $ AI Engineering 
 
 ---
 
