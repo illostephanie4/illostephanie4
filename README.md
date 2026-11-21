@@ -5,7 +5,7 @@
 ---
 
 ### ⚙️ Tech Stack  
-- **Languages:** Python, SQL, C, HTML, R
+- **Languages:** Python, SQL, C, HTML, R, JavaScript, React
 - **Frameworks:** FastAPI, Streamlit, Flask
 - **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn, BeautifulSoup4, PyTorch
 - **Focus Areas:** Backend Development, ML $ AI Engineering 
